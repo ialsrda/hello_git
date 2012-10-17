@@ -1,1 +1,1 @@
-Dit is een eerste versie van een test bestand bestemd voor het uittesten van Git
+Dit is een tweede versie van een test bestand bestemd voor het uittesten van Git
